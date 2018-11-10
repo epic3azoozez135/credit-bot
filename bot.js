@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 const Discord = require("discord.js")
 const client = new Discord.Client();
-var prefix = "--s"
+var prefix = "l"
 
 
 
